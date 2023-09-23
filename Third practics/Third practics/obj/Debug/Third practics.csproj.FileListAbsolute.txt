@@ -1,0 +1,7 @@
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\bin\Debug\Third practics.exe.config
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\bin\Debug\Third practics.exe
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\bin\Debug\Third practics.pdb
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\obj\Debug\Third practics.csproj.AssemblyReference.cache
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\obj\Debug\Third practics.csproj.CoreCompileInputs.cache
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\obj\Debug\Third practics.exe
+C:\Users\polse\OneDrive\Рабочий стол\stady C#\Практика\Third practics\Third practics\obj\Debug\Third practics.pdb
